@@ -1,0 +1,3 @@
+ini berisi data yang ada di file bengkel
+data ini dibuat agak mirip dengan data ridwan
+ridwan dan bengkel adalah satu kesatuan
